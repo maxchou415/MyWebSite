@@ -1,0 +1,35 @@
+/* Tags */
+body{
+  background-color: #EEEEEE;
+}
+
+/* End Tags */
+
+.profile{
+  margin-top: 100px;
+  padding: 20px;
+}
+.profile-img{
+  padding-top: 1px;
+}
+.center{
+  text-align: center;
+}
+.p{
+  margin-top: 5px;
+}
+.section-title-cust{
+
+}
+.cards-cust{
+  padding: 20px 20px 20px 20px;
+}
+.contact-btn{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 9999;
+}

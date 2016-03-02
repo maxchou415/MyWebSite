@@ -451,8 +451,8 @@
             <div class="card hoverable">
                <div class="card-image">
                   <div class="view overlay hm-white-slight z-depth-1">
-                     <img src="http://kaobei.ml/img/og_img.jpg" class="img-responsive" alt="">
-                     <a href="http://kaobei.ml" target="_blank">
+                     <img src="static/img/project-kaobei.png" class="img-responsive" alt="">
+                     <a href="https://kaobeiphp-itxmc.rhcloud.com" target="_blank">
                         <div class="mask waves-effect"></div>
                      </a>
                   </div>
@@ -469,7 +469,7 @@
                   </div>
                   <!--Buttons-->
                   <div class="card-btn text-center">
-                     <a href="http://kaobei.ml" class="btn btn-primary btn-md waves-effect waves-light" target="_blank">Website</a>
+                     <a href="https://kaobeiphp-itxmc.rhcloud.com" class="btn btn-primary btn-md waves-effect waves-light" target="_blank">Website</a>
                      <a href="https://github.com/maxyihsunchou/Node.js-Anonymous-Post-To-Facebook" class="btn btn-success btn-md waves-effect waves-light" target="_blank">Github</a>
                   </div>
                   <!--/.Buttons-->

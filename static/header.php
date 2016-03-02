@@ -2,6 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta property="og:title" content="Yi-Hsun Chou"/>
 <meta property="og:site_name" content="Yi-Hsun Chou"/>
+<meta property="og:description" content="Yi-Hsun Chou's Website."/>
+<meta property="og:image" content="http://yihsunchou.ml/static/img/profile-img.jpg"/>
 
 <title>Yi-Hsun Chou</title>
 
